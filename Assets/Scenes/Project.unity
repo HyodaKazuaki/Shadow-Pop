@@ -197,6 +197,11 @@ PrefabInstance:
       propertyPath: _positionMap
       value: 
       objectReference: {fileID: 8400000, guid: 2a924f5b2cbf8424f94f40c9591c48aa, type: 2}
+    - target: {fileID: 1528475295553199703, guid: c82362958e30b982d9e203a51a75abeb,
+        type: 3}
+      propertyPath: _depthThreshold
+      value: 0.7
+      objectReference: {fileID: 0}
     - target: {fileID: 1528475295553199706, guid: c82362958e30b982d9e203a51a75abeb,
         type: 3}
       propertyPath: DeviceConfiguration.Profiles.Array.data[0].Framerate
@@ -520,7 +525,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   clearColorMode: 0
-  backgroundColorHDR: {r: 1, g: 1, b: 1, a: 0}
+  backgroundColorHDR: {r: 0, g: 0, b: 0, a: 0}
   clearDepth: 1
   volumeLayerMask:
     serializedVersion: 2
