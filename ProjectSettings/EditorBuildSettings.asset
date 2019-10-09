@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Rsvfx/Simple.unity
-    guid: 639f7ac07673ef2f89c179e52d2fc3b0
+    path: Assets/Scenes/Project.unity
+    guid: 15941834db064024cb54ad2468679f39
   m_configObjects: {}
