@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using UnityEngine;
 using Intel.RealSense;
 using UnityEngine.Rendering;
