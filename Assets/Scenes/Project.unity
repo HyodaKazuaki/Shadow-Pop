@@ -200,7 +200,7 @@ PrefabInstance:
     - target: {fileID: 1528475295553199703, guid: c82362958e30b982d9e203a51a75abeb,
         type: 3}
       propertyPath: _depthThreshold
-      value: 0.9
+      value: 2.2
       objectReference: {fileID: 0}
     - target: {fileID: 1528475295553199706, guid: c82362958e30b982d9e203a51a75abeb,
         type: 3}
@@ -488,7 +488,10 @@ VisualEffect:
     m_Float:
       m_Array: []
     m_Vector2f:
-      m_Array: []
+      m_Array:
+      - m_Value: {x: 96, y: 602}
+        m_Name: Rotate Center
+        m_Overridden: 1
     m_Vector3f:
       m_Array: []
     m_Vector4f:
@@ -516,7 +519,7 @@ Transform:
   m_GameObject: {fileID: 1560127378}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: -1, y: 1, z: 1}
+  m_LocalScale: {x: -2.1, y: -1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 2

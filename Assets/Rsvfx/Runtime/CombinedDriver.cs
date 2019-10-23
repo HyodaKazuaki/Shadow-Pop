@@ -24,7 +24,7 @@ namespace Rsvfx
     {
         #region Editable attributes
 
-        [SerializeField] uint2 _resolution = math.uint2(640, 480);
+        [SerializeField] uint2 _resolution = math.uint2(1280, 720);
         [SerializeField] uint _framerate = 30;
         [Space]
         [SerializeField] float _depthThreshold = 10;
