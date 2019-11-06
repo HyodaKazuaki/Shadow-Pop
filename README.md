@@ -1,4 +1,4 @@
-Wavy shadow - 波打つ影
+Shadow Pop
 -----
 Wavy shadows are based on Rsvfx.
 
