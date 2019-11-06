@@ -1,6 +1,6 @@
 Shadow Pop
 -----
-Wavy shadows are based on Rsvfx.
+Shadow Pop are based on Rsvfx.
 
 Rsvfx
 ---
